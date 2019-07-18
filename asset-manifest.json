@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/P4_Counter/static/css/main.09c1f682.chunk.css",
+    "main.js": "/P4_Counter/static/js/main.88c1b3ca.chunk.js",
+    "main.js.map": "/P4_Counter/static/js/main.88c1b3ca.chunk.js.map",
+    "runtime~main.js": "/P4_Counter/static/js/runtime~main.0a017130.js",
+    "runtime~main.js.map": "/P4_Counter/static/js/runtime~main.0a017130.js.map",
+    "static/js/2.c95f6a39.chunk.js": "/P4_Counter/static/js/2.c95f6a39.chunk.js",
+    "static/js/2.c95f6a39.chunk.js.map": "/P4_Counter/static/js/2.c95f6a39.chunk.js.map",
+    "index.html": "/P4_Counter/index.html",
+    "precache-manifest.6617603e112c0911608301545a71dc6c.js": "/P4_Counter/precache-manifest.6617603e112c0911608301545a71dc6c.js",
+    "service-worker.js": "/P4_Counter/service-worker.js",
+    "static/css/main.09c1f682.chunk.css.map": "/P4_Counter/static/css/main.09c1f682.chunk.css.map"
+  }
+}
